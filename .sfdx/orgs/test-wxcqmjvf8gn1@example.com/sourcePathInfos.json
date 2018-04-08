@@ -1,0 +1,73 @@
+[
+    [
+        "C:\\Users\\pradravi\\PRDX\\src",
+        {
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523153174639,
+            "changeTime": 1523153174639,
+            "contentHash": "1adaa84dc07a16d34ede5b9a70713ff832a0f853",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\classes",
+        {
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523153181989,
+            "changeTime": 1523153181989,
+            "contentHash": "5018e270156625b9c520bcd072665ad377e80b11",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\classes\\demoDXContlr.cls",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\classes\\demoDXContlr.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 106,
+            "modifiedTime": 1523153424268,
+            "changeTime": 1523153424268,
+            "contentHash": "777455a8e1faf3b7e25056f1666ed38b33ec23cc"
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\classes\\demoDXContlr.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\classes\\demoDXContlr.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1523153424262,
+            "changeTime": 1523153424262,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5"
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX",
+        {
+            "sourcePath": "C:\\Users\\pradravi\\PRDX",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1523153181989,
+            "changeTime": 1523153181989,
+            "contentHash": "1e432aa4c0601b0d4bdf199bc78d4acf1d4f5b9d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
