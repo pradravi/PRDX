@@ -1,0 +1,347 @@
+[
+    [
+        "C:\\Users\\pradravi\\PRDX\\src",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523291118775,
+            "changeTime": 1523291118775,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523291118777,
+            "changeTime": 1523291118777,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523291120305,
+            "changeTime": 1523291120305,
+            "contentHash": "8184f76d3241c3fce29104450c85079324a0225d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523291118795,
+            "changeTime": 1523291118795,
+            "contentHash": "5018e270156625b9c520bcd072665ad377e80b11",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\classes\\demoDXContlr.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\classes\\demoDXContlr.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 112,
+            "modifiedTime": 1523291118781,
+            "changeTime": 1523291118781,
+            "contentHash": "1e11d40744dc1e5c5c007ac31c6be5fcfc683ef5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\classes\\demoDXContlr.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\classes\\demoDXContlr.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 179,
+            "modifiedTime": 1523291118796,
+            "changeTime": 1523291118796,
+            "contentHash": "f6f319f126dfc21d5abbffe6c65211457fdfa270",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\layouts",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523291118799,
+            "changeTime": 1523291118799,
+            "contentHash": "fd46cf87193ca4f2efae1a41d02c086df60a6e83",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\layouts\\Iteration__c-Iteration Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\layouts\\Iteration__c-Iteration Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2002,
+            "modifiedTime": 1523291118800,
+            "changeTime": 1523291118800,
+            "contentHash": "9a41fc56519071efca8cd348d2e7e8e33f903b59",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523291118806,
+            "changeTime": 1523291118806,
+            "contentHash": "7155e1a91dcee612a2e6e1d8e1df5e749ebaa3be",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects\\Iteration__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects\\Iteration__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523291118804,
+            "changeTime": 1523291118804,
+            "contentHash": "7a8c230837453a9e08a8efc8807e42affd2327d1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects\\Iteration__c\\Iteration__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects\\Iteration__c\\Iteration__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2146,
+            "modifiedTime": 1523291118804,
+            "changeTime": 1523291118804,
+            "contentHash": "573a3c7d89c9ed7b647d5c2431e49e114133009f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects\\SalesforceDXDemo__c",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects\\SalesforceDXDemo__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523291118823,
+            "changeTime": 1523291118823,
+            "contentHash": "bb6f501215eb80315df784bf883ec8d2d672b34b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects\\SalesforceDXDemo__c\\fields",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects\\SalesforceDXDemo__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523291120270,
+            "changeTime": 1523291120270,
+            "contentHash": "84f155cbf3227c5723acbbe62d966150b7690286",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects\\SalesforceDXDemo__c\\fields\\Start_Date__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects\\SalesforceDXDemo__c\\fields\\Start_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 377,
+            "modifiedTime": 1523291120270,
+            "changeTime": 1523291120270,
+            "contentHash": "0877198c6328324b1204216a106b6e7992f2d6d6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects\\SalesforceDXDemo__c\\SalesforceDXDemo__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\objects\\SalesforceDXDemo__c\\SalesforceDXDemo__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 289,
+            "modifiedTime": 1523291118822,
+            "changeTime": 1523291118822,
+            "contentHash": "0f4e7b29a0c802ebb785b9f4f75cb740f530433e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\profiles",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523291120304,
+            "changeTime": 1523291120304,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18670,
+            "modifiedTime": 1523291120298,
+            "changeTime": 1523291120298,
+            "contentHash": "bc57fea8609167d7492c84b3a36d31003b8c82a0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4827,
+            "modifiedTime": 1523291120300,
+            "changeTime": 1523291120300,
+            "contentHash": "c97a2448a221e443f7c48fa55da0f9fdcf956256",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4827,
+            "modifiedTime": 1523291120302,
+            "changeTime": 1523291120302,
+            "contentHash": "c97a2448a221e443f7c48fa55da0f9fdcf956256",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5177,
+            "modifiedTime": 1523291120304,
+            "changeTime": 1523291120304,
+            "contentHash": "a589ef720c32166c1c196fdb4f7af34360d4a77c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\tabs",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523291120307,
+            "changeTime": 1523291120307,
+            "contentHash": "224684cb46983e767312c7f50962006752e501a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\tabs\\Iteration__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX\\src\\main\\default\\tabs\\Iteration__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 230,
+            "modifiedTime": 1523291120308,
+            "changeTime": 1523291120308,
+            "contentHash": "c668b6312c8b37c64f1bb430e3650c035393a9e1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\pradravi\\PRDX",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\pradravi\\PRDX",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1523291118774,
+            "changeTime": 1523291265952,
+            "contentHash": "1e432aa4c0601b0d4bdf199bc78d4acf1d4f5b9d",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
